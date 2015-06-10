@@ -1,0 +1,157 @@
+body {
+
+  background-color: #1E1E1E;
+}
+
+.container-fluid {
+  max-width:750px;
+  background: rgb(73, 75, 74);
+  background: -moz-linear-gradient(30deg, rgb(73, 75, 74) 30%, rgb(47, 49, 48) 70%);
+  background: -webkit-linear-gradient(30deg, rgb(73, 75, 74) 30%, rgb(47, 49, 48) 70%);
+  background: -o-linear-gradient(30deg, rgb(73, 75, 74) 30%, rgb(47, 49, 48) 70%);
+  background: -ms-linear-gradient(30deg, rgb(73, 75, 74) 30%, rgb(47, 49, 48) 70%);
+  background: linear-gradient(120deg, rgb(73, 75, 74) 30%, rgb(47, 49, 48) 70%);
+  display:block;
+
+  vertical-align:middle;
+
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+
+
+}
+
+
+
+#nav {
+  display:inline-block;
+  vertical-align:auto;
+  horizontal-align:auto;
+  border-top:solid 1px #faf7fa;
+  border-bottom:solid 1px #faf7fa;
+  background: rgb(104, 106, 105);
+  background: -moz-linear-gradient(30deg, rgb(104, 106, 105) 30%, rgb(102, 102, 102) 70%);
+  background: -webkit-linear-gradient(30deg, rgb(104, 106, 105) 30%, rgb(102, 102, 102) 70%);
+  background: -o-linear-gradient(30deg, rgb(104, 106, 105) 30%, rgb(102, 102, 102) 70%);
+  background: -ms-linear-gradient(30deg, rgb(104, 106, 105) 30%, rgb(102, 102, 102) 70%);
+  background: linear-gradient(120deg, rgb(104, 106, 105) 30%, rgb(102, 102, 102) 70%);
+
+  vertical-align:top;
+
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  }
+
+  nav ul li {
+    display: inline;
+    float:left;
+    list-style-type: none;
+    margin:5px;
+    padding: 2px;
+    font-family: Futura, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    text-color: white;
+    align:center;
+    font-size:9pt;
+    text-shadow: 4px 4px 2px rgba(50, 50, 50, 1);
+    }
+
+h1 {
+  color: rgb(255, 255, 255);
+    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 32px;
+    opacity: 1.00;
+    padding-bottom: 5px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: uppercase;
+}
+
+h2, h3, h4 {
+  color:white;
+}
+
+p, li  {
+    color: white;
+    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 21px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+
+a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(189, 37, 44);
+    text-decoration: none;
+}
+
+
+img {
+
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+  color:white;
+
+}
+
+table, th, td {
+   border: 1px solid white;
+
+}
+
+th, td {
+  padding: 5px;
+}
+
+.no-border {
+  border:none;
+}
+
+footer {
+  border-top:solid 1px #faf7fa;
+}
+
+.red {color:red;}
+.brown {color:brown;}
+.green {color:green;}
+.blue {color:blue;}
+.purple{color:purple;}
+.orange{color:orange;}
+.yellow{color:yellow;}
+
+.lance {color:blue;}
+.adam {color:green;}
+.jorge{color:yellow;}

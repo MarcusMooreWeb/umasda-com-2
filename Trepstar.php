@@ -1,0 +1,2 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title></title></head><body><a href="https://www.trepstar.com/purchase.asp?idprod=143290&mode=itemlist" target=_purchase><img src="https://www.trepstar.com/i/BuyNowBlue2-100.gif" alt="Click here to buy now!" title="Click here to buy now!" border=0></a></body></html>
