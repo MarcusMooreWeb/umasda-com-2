@@ -53,20 +53,22 @@
         </div>
 
       </div>
+      <main>
+        <div class="row">
 
-      <div class="row">
 
+          <div class="col-lg-6" >
+            <p>All members of UMASDA are held accountable to the UMASDA Bylaws.<br /></p>
+            <br>
+            <p>As a fully qualified division of UMASDA, Inc. all members are held accountable to the <a title="http://74.220.219.135/~umasdaor/wp-content/uploads/2013/09/UMASDA-Inc-Bylaws-090513.pdf" href="http://74.220.219.135/~umasdaor/wp-content/uploads/2013/09/UMASDA-Inc-Bylaws-090513.pdf" >UMASDA, Inc. Bylaws </a>as well.<br /></p>
+            <br>
+            <p style="padding-bottom: 0pt; " class="Free_Form">Please click on the Bylaws image below to be taken to the PDF version of the Bylaws.</p>
+         </div>
+         <div  >
+                <a href="https://www.dropbox.com/s/as6i006xintbbmb/Bylaws%20October%202013.pdf" title="https://www.dropbox.com/s/as6i006xintbbmb/Bylaws October 2013.pdf"><img src="img/Bylaws%20October%202013.png" alt="" style="border: none; height: 300px; width: 232px; " /></a>
+          </div>
 
-        <div class="col-lg-6" >
-          <p>All members of UMASDA are held accountable to the UMASDA Bylaws.<br /></p>
-          <br>
-          <p>As a fully qualified division of UMASDA, Inc. all members are held accountable to the <a onclick="window.open(this.href); return false;" title="http://74.220.219.135/~umasdaor/wp-content/uploads/2013/09/UMASDA-Inc-Bylaws-090513.pdf" href="http://74.220.219.135/~umasdaor/wp-content/uploads/2013/09/UMASDA-Inc-Bylaws-090513.pdf" >UMASDA, Inc. Bylaws </a>as well.<br /></p>
-          <br>
-          <p style="padding-bottom: 0pt; " class="Free_Form">Please click on the Bylaws image below to be taken to the PDF version of the Bylaws.</p>
-       </div>
-       <div  >
-              <a href="https://www.dropbox.com/s/as6i006xintbbmb/Bylaws%20October%202013.pdf" title="https://www.dropbox.com/s/as6i006xintbbmb/Bylaws October 2013.pdf"><img src="img/Bylaws%20October%202013.png" alt="" style="border: none; height: 300px; width: 232px; " /></a>
-        </div>
+      </main>
 
 
       <div class="row">
