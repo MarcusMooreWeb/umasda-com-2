@@ -64,7 +64,7 @@
           <p class="paragraph_style_2">All of our coursebooks are distributed via <a title="http://db.tt/TvZCowX9" href="http://db.tt/TvZCowX9">Dropbox</a> in Adobe PDF format. Also available on the Dropbox are the required student documentation materials: Hours Logs, Written Exams, Coursework Checklists, etc. Once you have signed up for Dropbox via the link above, please email your Dropbox user ID (most likely your email address) to <a title="mailto:Steve@umasda.com?subject=Dropbox Activation" href="mailto:Steve@umasda.com?subject=Dropbox%20Activation">Steve@umasda.com</a>. <br /></p>
           <h2>How is the Coursework organized?</h2>
           <p class="paragraph_style_2">Each course requires a minimum number of &quot;lab hours,&quot; or actual physical time spent training material. For students who come to train with us with significant previous experience, progress is usually quicker than normal and a waiver of up to half the lab hours requirement is available under specific guidelines. Our programs are designed to develop a unique skill set found nowhere else in the martial arts community. We have access to resources unavailable to the general public that enables us to gather real time statistics for what the attack % are in our community. What this enables us to do is to structure our coursework to address the most common attacks FIRST in our curriculum, followed sequentially as shown by our research by the next most common, and so forth throughout each sequentially advancing course level. Each course level has a “theme” and deals with a specific type of attack. Once the basic and intermediate courses have been completed, the advanced courses then deal with combinations of the combat models found in the preceding coursework, and adds multiple attacker scenarios to up the intensity level. More information is available in the Members Site. Our coursework hierarchy is as follows:<br /> <br /></p>
-          <img src="img/Screen%20Shot%202012-04-16%20at%2011.27.41%20AM.jpg" alt=""  class="img-responsive"/>
+          <img src="img/rank_structure.jpg" alt=""  class="img-responsive" style="border: none; "/>
        </div>
 
       </div>
@@ -73,7 +73,11 @@
 
 
         <div class="col-lg-12" >
-
+          <h2>Why is there no coursework listed above 5th Degree?</h2>
+          <p>
+            How many punches/kicks/grabs/etc can you really be effective with? We have chosen to establish a rank ceiling at 5th Degree Black Belt for individual physical attainment. In American Kenpo, 5th Degree carries the title "Associate Professor". In TKD, 4th Degree is considered "Masters" level. To each their own - but how can someone truly master anything without the ability to teach it to others? All ranks up to and including 5th Black at UMASDA are earned through personal physical achievement. Ranks from 6th-10th Black are earned through teaching and giving back to the Science. More information is available on the Member's Site.
+          </p>
+          <br>
        </div>
      </div>
 

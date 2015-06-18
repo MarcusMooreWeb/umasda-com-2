@@ -69,7 +69,7 @@
           <p>Adult Training Hours: Sun 7:30PM, Tues 7PM, Thurs 7PM, Sat 10AM</p>
           <p>Children & Young Adults 14+ by Appointment Only</p>
           <br>
-          <p>Steve Zalazowski | 831 442-9472 |</p><p> **UMASDA  |  <a title="mailto:steve@umasda.com" href="mailto:steve@umasda.com">steve@umasda.com</a></p>
+          <p>Steve Zalazowski | 831 442-9472 |</p><p>   |  <a title="mailto:steve@umasda.com" href="mailto:steve@umasda.com">Steve@umasda.com</a></p>
           <p>Adam Noggle | 831 595-9421 | </p><p> <a title="mailto:ANoggle@umasda.com" href="mailto:ANoggle@umasda.com">ANoggle@umasda.com</a></p>
 ￼          <?php include "UMASDA_Facebook_badge.php" ?>
           <br>

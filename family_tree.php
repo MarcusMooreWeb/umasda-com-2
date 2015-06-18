@@ -97,7 +97,7 @@
           <p>CM Coffey    12.13.09    01-121309-59<br /></p>
           <p>Matt Rathbun    10.13.10    01-101310-71<br /></p>
           <p>Benjamin Cheek    12.18.10    01-121810-74<br /></p>
-          <p><span style="line-height: 15px; " class="style_6">*</span>Pete Amaro    1.3.15      01-010315-106<br /></p>
+          <p><span style="line-height: 15px; " class="lance">*</span>Pete Amaro    1.3.15      01-010315-106<br /></p>
          <br>
           <p><span class="yellow">YELLOW</span> BELTS - COURSE 102<br /></p>
           <p>Nicole (Nica) White    2.27.06    01-052706-12<br /></p>
@@ -131,20 +131,22 @@
           <br>
           <p>The following are promotions whereby the Presiding Senior Examiner was a member of the UMASDA Examiner Corps, but were not for rank earned for study within the scope of UMASDA sanctioned curriculum. If a UMASDA diploma was granted, the serial # will be listed below.<br /></p>
           <br>
-          <h3>CHINESE KENPO<br /></h3>
+          <h3 class="system-names">CHINESE KENPO<br /></h3>
           <h4><span class="red">1ST DEGREE </span>BLACK BELT<br /></h4>
           <p>Marcus Albert Moore    8.6.11    01-080611-83<br /></p>
           <br>
-          <h3 >FARMER’S DYNAMIC KENPO CONCEPTS<br /></h3>
+          <h3 class="system-names">FARMER’S DYNAMIC KENPO CONCEPTS<br /></h3>
+          <img src="img/dkclogo2.jpg" alt="Dynamic Kenpo Concepts Logo" class="img-responsive" style="float:right; " />
           <h4><span class="red">9TH DEGREE</span> BLACK BELT<br /></h4>
           <p>Brad Seger 4.21.12 DKC-042112-02<br /></p>
           <p>Jeff Blattner 4.21.12 DKC-042112-03<br /></p>
           <br>
           <h4><span class="red">5TH DEGREE </span>BLACK BELT<br /></h4>
           <p>Steve M. Paden    1.13.12    DKC-011312-01<br /></p>
+
          <br>
 
-          <h3 >PEACEFUL JOURNEY MARTIAL STUDIES<br /></h3>
+          <h3 class="system-names">PEACEFUL JOURNEY MARTIAL STUDIES<br /></h3>
           <h4 > <span class="red">5TH DEGREE </span>BLACK BELT</h4>
           <p >Rick Cathey    2.7.12    PJMS: 01-020412-01</p>
         </div>
@@ -153,7 +155,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div >
-              <img  class="img-responsive" src="Family_Tree_files/dkclogo2.jpg" alt=""   />
+
             </div>
         </div>
       </div>

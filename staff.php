@@ -68,7 +68,7 @@
           <h2 style="color:red; font-size:16pt; text-align:center;">UMASDA Board of Directors</h2>
           <table cellpadding="20" style="width:100%" class="no-border">
             <tr class="no-border">
-              <td class="no-border"><img src="img/shapeimage_1(2).png" alt="" style="height: 100px; left: 0px; width: 65px; " /></td>
+              <td class="no-border"><img src="img/Zalazowski.png" alt="" style="height: 100px; left: 0px; width: 65px; " /></td>
               <td class="no-border">
                 <h3>Executive Director: <a title="mailto:steve@umasda.com" href="mailto:steve@umasda.com">Mr. Steve Zalazowski</a><a title="Staff_Bio__Steve_Zalazowski.html" href="Staff_Bio__Steve_Zalazowski.html"> (Biography)</a></h3>
 
@@ -87,7 +87,7 @@
             <tr class="no-border"><td class="no-border"> <br></td></tr>
 
             <tr class="no-border">
-              <td class="no-border"><img src="img/shapeimage_4.png" alt="" style="height: 100px; left: 0px; width: 67px; " /></td>
+              <td class="no-border"><img src="img/Adam.png" alt="" style="height: 100px; left: 0px; width: 67px; " /></td>
               <td class="no-border">
                 <h3>Associate Director, Operations: <a title="mailto:anoggle@umasda.com" href="mailto:anoggle@umasda.com">Mr. Adam Noggle </a><a title="Staff_Bio__Adam_Noggle.html" href="Staff_Bio__Adam_Noggle.html">(Biography)</a></h3>
 
@@ -127,7 +127,7 @@
             <tr class="no-border"><td class="no-border"> <br></td></tr>
 
             <tr class="no-border">
-              <td class="no-border"><img src="img/shapeimage_5.png" alt="" style="height: 99px; left: 0px; margin-top: 1px; width: 95px; " /></td>
+              <td class="no-border"><img src="img/Wiley.png" alt="" style="height: 99px; left: 0px; margin-top: 1px; width: 95px; " /></td>
               <td class="no-border">
                 <h3>UMASDA Advisor: Mr. Christopher “AC” Wiley <a title="Staff_Bio__Chris_AC_Wiley.html" href="Staff_Bio__Chris_AC_Wiley.html" class="style_1">(Biography)</a></h3>
 
@@ -138,7 +138,7 @@
             <tr class="no-border"><td class="no-border"> <br></td></tr>
 
             <tr class="no-border">
-              <td class="no-border"><img src="img/shapeimage_6.png" alt="" style="height: 100px; left: 0px; width: 67px; " /></td>
+              <td class="no-border"><img src="img/Ashley.png" alt="" style="height: 100px; left: 0px; width: 67px; " /></td>
               <td class="no-border">
                 <h3>Director, Events: Ms. Ashley Harrison</h3>
                 <p>Organizing and planning Organization Events. Reports to Executive Director.</p>
@@ -148,7 +148,7 @@
             <tr class="no-border"><td class="no-border"> <br></td></tr>
 
             <tr class="no-border">
-              <td class="no-border"><img src="img/shapeimage_7.png" alt="" style="height: 100px; left: 0px; width: 67px; " /></td>
+              <td class="no-border"><img src="img/Bartolo.png" alt="" style="height: 100px; left: 0px; width: 67px; " /></td>
               <td class="no-border">
                 <h3>Student Instructor: Mr. Jorge Bartolo</h3>
                 <p>Instructor in Training &amp; Mentor. Reports to Director, Quality Control.</p>

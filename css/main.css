@@ -1,9 +1,8 @@
-body {
-
-  background-color: #1E1E1E;
-}
+body {background-color: #1E1E1E;}
 
 .container-fluid {
+  vertical-align:middle;
+  display:block;
   max-width:750px;
   background: rgb(73, 75, 74);
   background: -moz-linear-gradient(30deg, rgb(73, 75, 74) 30%, rgb(47, 49, 48) 70%);
@@ -11,22 +10,26 @@ body {
   background: -o-linear-gradient(30deg, rgb(73, 75, 74) 30%, rgb(47, 49, 48) 70%);
   background: -ms-linear-gradient(30deg, rgb(73, 75, 74) 30%, rgb(47, 49, 48) 70%);
   background: linear-gradient(120deg, rgb(73, 75, 74) 30%, rgb(47, 49, 48) 70%);
-  display:block;
-
-  vertical-align:middle;
-
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
-
-
 }
 
+@media (max-width:500px) {
+  .container-fluid {
+    background-color: #1e1e1e;
+  }
+}
 
+nav {
+  margin:0;
+  padding:0;
+  border:1px solid #ccc;
+  border-width:1px 0;
+}
 
 #nav {
   display:inline-block;
   vertical-align:auto;
-  horizontal-align:auto;
   border-top:solid 1px #faf7fa;
   border-bottom:solid 1px #faf7fa;
   background: rgb(104, 106, 105);
@@ -36,28 +39,47 @@ body {
   background: -ms-linear-gradient(30deg, rgb(104, 106, 105) 30%, rgb(102, 102, 102) 70%);
   background: linear-gradient(120deg, rgb(104, 106, 105) 30%, rgb(102, 102, 102) 70%);
 
-  vertical-align:top;
-
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   }
 
-  nav ul li {
-    display: inline;
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+
+
+  }
+
+
+  nav li {
+    text-align:center !important;
     float:left;
+    display: inline;
     list-style-type: none;
     margin:5px;
     padding: 2px;
     font-family: Futura, 'Trebuchet MS', sans-serif;
     text-transform: uppercase;
     text-color: white;
-    align:center;
-    font-size:9pt;
-    text-shadow: 4px 4px 2px rgba(50, 50, 50, 1);
+    display:inline-block;
+    font-size:12pt;
+    text-shadow: 4px 4px 2px rgba(50,50,50,1);
+
     }
 
+
+
+nav a {
+  display:inline-block;
+  padding:2px;
+}
+
+
+
+
 h1 {
-  color: rgb(255, 255, 255);
+  color: rgb(255,255,255);
     font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
     font-size: 24px;
     font-stretch: normal;
@@ -74,11 +96,16 @@ h1 {
     text-transform: uppercase;
 }
 
-h2, h3, h4 {
-  color:white;
-}
+h2, h3, h4 {color:white;}
 
 p, li  {
+    line-height: 21px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
     color: white;
     font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
     font-size: 16px;
@@ -87,19 +114,12 @@ p, li  {
     font-variant: normal;
     font-weight: 500;
     letter-spacing: 0;
-    line-height: 21px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: justify;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+    opacity: 1;
 }
+
 
 a {
     color: rgb(203, 203, 203);
@@ -122,27 +142,15 @@ img {
     margin-right: auto;
 }
 
-table {
-  color:white;
+table {color:white;}
 
-}
+table, th, td {border: 1px solid white;}
 
-table, th, td {
-   border: 1px solid white;
+th, td {padding: 5px;}
 
-}
+.no-border {border:none;}
 
-th, td {
-  padding: 5px;
-}
-
-.no-border {
-  border:none;
-}
-
-footer {
-  border-top:solid 1px #faf7fa;
-}
+footer {border-top:solid 1px #faf7fa;}
 
 .red {color:red;}
 .brown {color:brown;}
@@ -155,3 +163,13 @@ footer {
 .lance {color:blue;}
 .adam {color:green;}
 .jorge{color:yellow;}
+.n-z{color:darkgreen}
+.h-z{color:lightblue}
+.b-z{color:darksalmon}
+
+#faq-logo {float:left;}
+
+.system-names {
+  font-family: Papyrus, fantasy;
+  font-weight:500;
+}

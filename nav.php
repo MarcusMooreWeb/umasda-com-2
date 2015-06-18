@@ -1,4 +1,4 @@
-<nav>
+<nav class="nav">
   <ul>
    <li class="nav"><a href="index.php">Home</a></li>
    <li class="nav"><a href="location.php">Location</a></li>
@@ -9,12 +9,12 @@
    <li class="nav"><a href="instructors.php">Instructors</a></li>
    <li class="nav"><a href="faq.php">FAQ</a></li>
    <li class="nav"><a href="bylaws.php">Bylaws</a></li>
-   <li class="nav"><a href="members_only_forum.php">Members Only Forum</a></li>
-   <li class="nav"><a href="school_members_login.php">School Members Login</a></li>
-   <li class="nav"><a href="swag.php">UMASDA Swag</a></li>
    <li class="nav"><a href="https://www.facebook.com/UMASDA/photos" target="_blank">Photos</a></li>
    <li class="nav"><a href="videos.php">Videos</a></li>
-   <li class="nav"><a href="distance_learning.php">Distance Learning</a></li>
+   <li class="nav"><a href="school_members_login.php">School Members Login</a></li>
+   <li class="nav"><a href="swag.php">UMASDA Swag</a></li>
+
+
 
   </ul>
 

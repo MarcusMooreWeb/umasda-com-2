@@ -114,7 +114,7 @@
            <p>339 Maple St, Unit C, Salinas, CA 93901</p>
            <p>Adult Training Hours: Sun 7:30PM, Tues 7PM, Thurs 7PM, Sat 10AM</p>
            <p>Children & Young Adults 14+ by Appointment Only</p>
-           <p>Steve Zalazowski | 831 442-9472 | **UMASDA  |  <a title="mailto:steve@umasda.com" href="mailto:steve@umasda.com">steve@umasda.com</a></p>
+           <p>Steve Zalazowski | 831 442-9472 |   |  <a title="mailto:steve@umasda.com" href="mailto:steve@umasda.com">steve@umasda.com</a></p>
            <p>Adam Noggle | 831 595-9421 | <a title="mailto:ANoggle@umasda.com" href="mailto:ANoggle@umasda.com">ANoggle@umasda.com</a></p>
   ￼
         </div>

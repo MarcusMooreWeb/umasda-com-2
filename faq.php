@@ -18,7 +18,7 @@
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <script src="js/vendor/bootstrap.min.js"></script>
         <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/faq.css">
+        
 
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
@@ -60,7 +60,7 @@
 
         <div class="col-lg-12" >
           <div>
-              <img src="img/%212006trans.png" alt="" style="border: none; height: 300px; width: 247px; " />
+              <img src="img/%212006trans.png" alt="" style="border: none; height: 300px; width: 247px; " id="faq-logo"/>
           </div>
           <h2>Who are we?</h2>
           <p>United Martial Arts Self Defense Academy (UMASDA) is a school for learning methods of Self Defense. Our name reflects our origins: United Martial Arts represents our coursework originating from several mother systems of training. Self Defense represents our training focus. Academy connotes a place of learning; our school is modeled on collegiate academic standards including written and oral exams in addition to the physical execution of coursework.</p>

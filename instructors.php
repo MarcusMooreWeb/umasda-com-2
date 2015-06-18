@@ -100,63 +100,7 @@
                     <li>C = Certified Through</li>
                     <li>Q = Qualifying Level</li>
                   </ul>
-                  <br>
-                  <p>Note: All graduations are now posted to this site; not all members are still active.<br />Graduates are listed in chronological order of seniority.<br /></p>
-                  <p><br /></p>
-                  <p>The following are promotions whereby the Presiding Senior Examiner was a member of the UMASDA Examiner Corps, but were not for rank earned for study within the scope of UMASDA sanctioned curriculum. If a UMASDA diploma was granted, the serial # will be listed below.<br /></p>
-                  <p><br /></p>
-                  <h3>CHINESE KENPO<br /></h3>
-                  <h4><span class="style">1ST DEGREE </span>BLACK BELT<br /></h4>
-                  <table cellpadding="20">
-                    <tr>
-                      <th>Name</th>
-                      <th>Date of Certification</th>
-                      <th>Serial Number</th>
-                    </tr>
-                    <tr>
-                      <td>Marcus Albert Moore</td>
-                      <td>8.6.11</td>
-                      <td>01-080611-83</td>
-                    </tr>
-                  </table>
-
-                  <p><br /></p>
-                  <h3>FARMER’S DYNAMIC KENPO CONCEPTS<br /></h3>
-                  <h4><span class="style">9TH DEGREE</span> BLACK BELT<br /></h4>
-                  <table cellpadding="20">
-                    <tr>
-                      <th>Name</th>
-                      <th>Date of Certification</th>
-                      <th>Serial Number</th>
-                    </tr>
-                    <tr>
-                      <td>Brad Seger</td>
-                      <td>4.21.12</td>
-                      <td>DKC-042112-02</td>
-                    </tr>
-                    <tr>
-                      <td>Jeff Blattner</td>
-                      <td>4.21.12</td>
-                      <td>DKC-042112-03</td>
-                    </tr>
-                  </table>
-
-                  <h4><span class="style">5TH DEGREE </span>BLACK BELT<br /></h4>
-                  <table cellpadding="20">
-                    <tr>
-                      <th>Name</th>
-                      <th>Date of Certification</th>
-                      <th>Serial Number</th>
-                    </tr>
-                    <tr>
-                      <td>Steve M. Paden</td>
-                      <td>1.13.12</td>
-                      <td>DKC-011312-01</td>
-                    </tr>
-                  </table>
-                  <div style="height: 140px; width: 144px;  height: 140px; left: 551px; width: 144px; z-index: 1; " class="tinyText style_SkipStroke_1">
-                    <img src="img/dkclogo2.jpg" alt="" style="border: none; height: 140px; width: 144px; " />
-                  </div>
+                  
        </div>
 
      </div>

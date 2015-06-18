@@ -66,6 +66,7 @@
           <p>Course 101 - Yellow Stripe, 102 - Yellow, and 103 - Orange are now available via Video Chat Private Lessons to students who cannot make regular classes or are geographically removed from a school location.<br /></p>
           <p><br /></p>
           <p>For more information - please contact <a title="mailto:Steve@umasda.com" href="mailto:Steve@umasda.com">Steve@umasda.com</a> or call 831 442-9472!<br /></p>
+          <br>
        </div>
 
       <div class="row">
