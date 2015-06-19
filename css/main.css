@@ -55,7 +55,7 @@ nav {
   nav li {
     text-align:center !important;
     float:left;
-    display: inline;
+    
     list-style-type: none;
     margin:5px;
     padding: 2px;
