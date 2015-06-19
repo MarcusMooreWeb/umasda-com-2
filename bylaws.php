@@ -60,7 +60,7 @@
           <div class="col-lg-6" >
             <p>All members of UMASDA are held accountable to the UMASDA Bylaws.<br /></p>
             <br>
-            <p>As a fully qualified division of UMASDA, Inc. all members are held accountable to the <a title="UMASDA, Inc. Bylaws" href="http://74.220.219.135/~umasdaor/wp-content/uploads/2013/09/UMASDA-Inc-Bylaws-090513.pdf" >UMASDA, Inc. Bylaws </a>as well.<br /></p>
+            <p>As a fully qualified division of UMASDA, Inc. all members are held accountable to the <a title="UMASDA, Inc. Bylaws" href="http://74.220.219.135/~umasdaor/wp-content/uploads/2013/09/UMASDA-Inc-Bylaws-090513.pdf" target="_blank">UMASDA, Inc. Bylaws </a>as well.<br /></p>
             <br>
             <p style="padding-bottom: 0pt; " class="Free_Form">Please click on the Bylaws image below to be taken to the PDF version of the Bylaws.</p>
          </div>
