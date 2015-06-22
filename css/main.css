@@ -14,11 +14,6 @@ body {background-color: #1E1E1E;}
   -webkit-border-radius: 2px;
 }
 
-@media (max-width:500px) {
-  .container-fluid {
-    background-color: #1e1e1e;
-  }
-}
 
 nav {
   margin:0;
@@ -38,9 +33,7 @@ nav {
   background: -o-linear-gradient(30deg, rgb(104, 106, 105) 30%, rgb(102, 102, 102) 70%);
   background: -ms-linear-gradient(30deg, rgb(104, 106, 105) 30%, rgb(102, 102, 102) 70%);
   background: linear-gradient(120deg, rgb(104, 106, 105) 30%, rgb(102, 102, 102) 70%);
-
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
+  
   }
 
   nav ul {
@@ -55,7 +48,7 @@ nav {
   nav li {
     text-align:center !important;
     float:left;
-    
+
     list-style-type: none;
     margin:5px;
     padding: 2px;
