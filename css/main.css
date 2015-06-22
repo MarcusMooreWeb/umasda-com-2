@@ -15,8 +15,6 @@ body {background-color: #1E1E1E;}
 }
 
 #nav {
-  display:inline-block;
-  vertical-align:auto;
   border-top:solid 1px #faf7fa;
   border-bottom:solid 1px #faf7fa;
   background: rgb(104, 106, 105);
@@ -29,18 +27,14 @@ body {background-color: #1E1E1E;}
   }
 
   nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0 auto;
+    
 
 
   }
 
 
   nav li {
-    text-align:center !important;
     float:left;
-
     list-style-type: none;
     margin:5px;
     padding: 2px;
