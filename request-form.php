@@ -1,7 +1,7 @@
 <?php
 
 if($_POST["submit"]) {
-    $recipient="your@email.address";
+    $recipient="marcus.moore.webdev@gmail.com";
     $subject="Form to email message";
     $sender=$_POST["sender"];
     $senderEmail=$_POST["senderEmail"];
@@ -11,10 +11,12 @@ if($_POST["submit"]) {
 
     mail($recipient, $subject, $mailBody, "From: $sender <$senderEmail>");
 
-    $thankYou="<p>Thank you! Your message has been sent.</p>";
+    $thankYou="<p>Thank you! Your message has been sent. The appropriate UMASDA representative will contact you shortly.</p>";
 }
 
-?><!DOCTYPE html>
+?>
+
+<!DOCTYPE html>
 
 <html>
 <head>
@@ -56,7 +58,7 @@ if($_POST["submit"]) {
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 
-        <?=$thankYou ?>    
+        <?=$thankYou ?>
 
     <div class="container-fluid" >
 
