@@ -143,3 +143,7 @@ footer {border-top:solid 1px #faf7fa;}
   font-family: Papyrus, fantasy;
   font-weight:500;
 }
+
+.editor-note {
+  font-style:italic;
+}
