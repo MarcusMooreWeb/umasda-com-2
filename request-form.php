@@ -83,7 +83,7 @@ if($_POST["submit"]) {
       <div class="row">
 
         <div class="col-lg-12" >
-          <h1>Request Form</h1>
+          <h1>Self Defense Workshop Questionnaire</h1>
         </div>
 
       </div>
@@ -94,17 +94,47 @@ if($_POST["submit"]) {
         <div class="col-lg-12" >
 
 
-          <form method="post" action="contact.php">
-              <label>Name:</label>
-              <input name="sender">
+          <form
+            method="post"
+            action="mailto:marcus.moore.webdev@gmail.com"
+            enctype="multipart/form-data"
+            name="EmailTestForm">
+
+              <p>
+                <label>How would you rate your own level of self-defense skills? (Check One)</label>                
+                <input type="radio" name="Non" value="None">None <br>
+                <input type="radio" name="A Little" value="A Little">A Little <br>
+                <input type="radio" name="Some Training" value="Some Training">Some Training <br>
+                <input type="radio" name="I am Currently Training" value="I Am Currently training">I Am Currently Training <br>
+                <input type="radio" name="I'm an Expert" value="I'm an Expert">I'm an Expert <br>
+              </p>
+
+              <label>What personal safety concerns do you have while at school?</label>
+              <textarea rows="5" cols="20" name="message"></textarea>
+
+              <label>What personal safety concerns do you have while at home?</label>
+              <textarea rows="5" cols="20" name="message"></textarea>
+
+              <label>What would you specifically like to see addressed during a self-defense workshop?</label>
+              <textarea rows="5" cols="20" name="message"></textarea>
+
+              <label>If you took home one idea, concept, or technique from a workshop that would make you feel empowered = what would that one piece be?</label>
+              <textarea rows="5" cols="20" name="message"></textarea>
+
+              <label>What specific concerns do you have regarding your ability to protect yourself?</label>
+              <textarea rows="5" cols="20" name="message"></textarea>
+
+              <label for="Contact Method">Preferred Contact Method?</label>
+              <input type="text" name="name" value="">
 
               <label>Email address:</label>
               <input name="senderEmail">
 
-              <label>Message:</label>
-              <textarea rows="5" cols="20" name="message"></textarea>
+              <label for="">Your Name:</label> <br>
+              <input type="text" size="40" name="VisitorName"><br><br>
 
-              <input type="submit" name="submit">
+              <input type="submit" name="submit" value="Send Form">
+              <input type="reset" name="reset" value="Clear Form">
           </form>
 
 
