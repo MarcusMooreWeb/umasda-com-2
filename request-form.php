@@ -1,27 +1,9 @@
-<?php
-
-if($_POST["submit"]) {
-    $recipient="marcus.moore.webdev@gmail.com";
-    $subject="Form to email message";
-    $sender=$_POST["sender"];php
-    $senderEmail=$_POST["senderEmail"];
-    $message=$_POST["message"];
-
-    $mailBody="Name: $sender\nEmail: $senderEmail\n\n$message";
-
-    mail($recipient, $subject, $mailBody, "From: $sender <$senderEmail>");
-
-    $thankYou="<p>Thank you! Your message has been sent. The appropriate UMASDA representative will contact you shortly.</p>";
-}
-
-?>
-
 <!DOCTYPE html>
 
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Contact form to email</title>
+    <title>Self Defense Workshop Questionnaire</title>
 </head>
 
 <body>
@@ -101,40 +83,74 @@ if($_POST["submit"]) {
             name="EmailTestForm">
 
               <p>
-                <label>How would you rate your own level of self-defense skills? (Check One)</label>                
-                <input type="radio" name="Non" value="None">None <br>
+                <label>How would you rate your own level of self-defense skills? (Check One)</label><br>
+                <input type="radio" name="None" value="None">None <br>
                 <input type="radio" name="A Little" value="A Little">A Little <br>
                 <input type="radio" name="Some Training" value="Some Training">Some Training <br>
                 <input type="radio" name="I am Currently Training" value="I Am Currently training">I Am Currently Training <br>
                 <input type="radio" name="I'm an Expert" value="I'm an Expert">I'm an Expert <br>
-              </p>
+
+                <br><br>
 
               <label>What personal safety concerns do you have while at school?</label>
-              <textarea rows="5" cols="20" name="message"></textarea>
+              <br>
+              <textarea rows="5" cols="20" name="message" size="200"></textarea>
+
+              <br><br>
 
               <label>What personal safety concerns do you have while at home?</label>
-              <textarea rows="5" cols="20" name="message"></textarea>
+              <br>
+              <textarea rows="5" cols="20" name="message" size="200"></textarea>
+
+              <br><br>
 
               <label>What would you specifically like to see addressed during a self-defense workshop?</label>
-              <textarea rows="5" cols="20" name="message"></textarea>
+              <br>
+              <textarea rows="5" cols="20" name="message" size="200"></textarea>
+
+              <br><br>
 
               <label>If you took home one idea, concept, or technique from a workshop that would make you feel empowered = what would that one piece be?</label>
-              <textarea rows="5" cols="20" name="message"></textarea>
+              <br>
+              <textarea rows="5" cols="20" name="message" size="200"></textarea>
+
+              <br><br>
 
               <label>What specific concerns do you have regarding your ability to protect yourself?</label>
-              <textarea rows="5" cols="20" name="message"></textarea>
+              <br>
+              <textarea rows="5" cols="20" name="message" size="200"></textarea>
+
+              <br><br>
 
               <label for="Contact Method">Preferred Contact Method?</label>
-              <input type="text" name="name" value="">
-
-              <label>Email address:</label>
-              <input name="senderEmail">
+              <br>
+              <input type="radio" name="Email" value="Email">Email <br>
+              <input type="radio" name="Phone" value="Phone">Phone <br>
 
               <label for="">Your Name:</label> <br>
               <input type="text" size="40" name="VisitorName"><br><br>
 
-              <input type="submit" name="submit" value="Send Form">
+              <br><br>
+
+              <label>Email Address:</label>
+              <br>
+              <input name="senderEmail" type="text" size="100" name="Visitor Email">
+
+              <br><br>
+
+              <label>Phone Number:</label>
+              <br>
+              <input name="senderPhone" type="text" size="100" name="Visitor Phone">
+
+              <br><br>
+
+            </p>
+
+              <input type="submit" name="submit" value="Send Form" onSubmit="alert('Thank you! Your message has been sent. The appropriate UMASDA representative will contact you shortly.')">
               <input type="reset" name="reset" value="Clear Form">
+
+              <br><br>
+
           </form>
 
 

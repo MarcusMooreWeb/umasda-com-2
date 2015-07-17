@@ -90,6 +90,7 @@ p, li  {
     opacity: 1;
 }
 
+input {text-color:black}
 
 a {
     color: rgb(203, 203, 203);
