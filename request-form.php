@@ -3,7 +3,7 @@
 if($_POST["submit"]) {
     $recipient="marcus.moore.webdev@gmail.com";
     $subject="Form to email message";
-    $sender=$_POST["sender"];
+    $sender=$_POST["sender"];php
     $senderEmail=$_POST["senderEmail"];
     $message=$_POST["message"];
 
